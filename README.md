@@ -1,7 +1,14 @@
+# solana-raydium-sniper-bot
 
+Solana Raydium Sniper Bot that listens to new Raydium USDC or SOL pools and buys tokens for a fixed amount in USDC/SOL
+
+## Contact me
+
+-telegram: https://t.me/AlaMoonzzz
+-Discord: https://discord.com/users/304228787250528256
 
 **Solana Raydium Sniper Bot** that listens to new Raydium USDC or SOL pools and buys tokens for a fixed amount in USDC/SOL.
-Depending on the speed of the RPC node, the purchase usually happens before the token is available on Raydium UI for swapping. This version is free, but it can still generate stable profits of several hundred dollars per day. You can run it for a few hours to check the earnings. If you want to purchase the premium version, my Telegram is at the bottom.
+Depending on the speed of the RPC node, the purchase usually happens before the token is available on Raydium UI for swapping. This version is free, but it can still generate stable profits of several hundred dollars per day. You can run it for a few hours to check the earnings. If you want to purchase the premium version, my Telegram is at the bottom .
 
 - `WSOL Snipe`
 - `Auto-Sell`
@@ -109,7 +116,7 @@ It will buy only when new pool is open for trading. If you want to buy token tha
 > FIX: Go to dex and swap some SOL to USDC/WSOL. When you swap sol to wsol you should see it in wallet.
 
 ## CONTACT
-Telegram: `@AhmedRabby_2002`
+Telegram: `@AlaMoonzzz`
 
 ## DISCLAIMER
 
